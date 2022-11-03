@@ -1,5 +1,5 @@
 hello
 
 git add
-git commid
-git remove
+git commit
+git status
